@@ -1,7 +1,9 @@
 # IP Gang Detection
 
 This repository contains my work from my internship with NSFOCUS.
+
 **Please note that the code in this repository is owned by NSFOCUS and should only be used for academic purposes.**
+
 The work is summarized in the conference paper "Detection of IP Gangs: Strategically Organized Bots", which was presented at the 18th International Conference on Data Mining. The paper is available on page 254 of [the proceedings.](https://link.springer.com/book/10.1007/978-3-319-95786-9)
 
 ## What the code does
